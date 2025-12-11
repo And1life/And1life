@@ -63,6 +63,6 @@ I am a Beginner Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 [![Top Languages](https://github-readme-stats-and1life.vercel.app/api/top-langs/?username=And1life&layout=compact&theme=radical&cache_bust=1)](https://github.com/anuraghazra/github-readme-stats-and1life)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=And1life&theme=radical&cache_bust=1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=And1life&theme=dark&cache_bust=1)](https://git.io/streak-stats)
 
 
