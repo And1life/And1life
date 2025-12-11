@@ -57,14 +57,10 @@ I am a Beginner Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :fire: My Stats :
-## 📊 GitHub Stats
 
-[![And1life's GitHub stats](https://github-readme-stats.vercel.app/api?username=And1life&show_icons=true&theme=radical)](https://github.com/And1life)
+[![And1life's GitHub stats](https://github-readme-stats.vercel.app/api?username=And1life&show_icons=true)](https://github.com/And1life)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=And1life&layout=compact&theme=radical)](https://github.com/And1life)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=And1life&layout=compact)](https://github.com/And1life)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=And1life&theme=radical)
-
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=And1life&theme=react-dark)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=And1life)
 
